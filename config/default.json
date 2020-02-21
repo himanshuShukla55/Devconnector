@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://himMongo:NehaRawat94@cluster0-v76kg.mongodb.net/devconnect?retryWrites=true&w=majority",
+  "jwtSecret": "mySecret",
+  "githubClientId": "e17a4e49b36dbe5e24f0",
+  "githubSecret": "11910f8ec985b35bc72853d2457030ab3b38f8b4"
+}
